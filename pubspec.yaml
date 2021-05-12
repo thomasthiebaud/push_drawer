@@ -1,0 +1,17 @@
+name: push_drawer
+description: A sliding drawer, pushing the main view away
+version: 0.0.1
+repository: https://github.com/thomasthiebaud/push_drawer
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  pedantic: ^1.11.0
